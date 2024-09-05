@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codesolverkushal&label=Profile%20views&color=0e75b6&style=flat" alt="codesolverkushal" /> </p>
 
-- 🌱 I’m currently learning **New Technology**
+- 🌱 Currently, I'm  learning  **New Technology**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/codesolverkushal?tab=repositories](https://github.com/codesolverkushal?tab=repositories)
 
